@@ -1,4 +1,8 @@
-Eventite
+Symfony project template
 ========
 
-A Symfony project created on July 27, 2016, 9:25 am.
+This is a symfony (LTS) project skeleton that uses DotEnv.
+
+```
+$ composer create-project arturolinares/symfony-template
+```
