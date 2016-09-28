@@ -1,5 +1,5 @@
 {
-    "name": "arturo/symfony-project-template",
+    "name": "arturolinares/symfony-template",
     "license": "proprietary",
     "type": "project",
     "autoload": {
@@ -64,8 +64,6 @@
                 "database_password": "DB_PASS",
                 "database_name": "DB_NAME",
                 "monolog_action_level": "LOG_LEVEL",
-                "conekta_public_key": "CONEKTA_PUBLIC_KEY",
-                "conekta_private_key": "CONEKTA_PRIVATE_KEY",
                 "mailer_host": "MAILER_HOST",
                 "mailer_user": "MAILER_USER",
                 "mailer_password": "MAILER_PASSWORD",
